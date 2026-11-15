@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/patient_data-none-9AA3B2?style=flat-square" alt="No patient data" />
 </p>
 
+<a href="https://github042project.github.io/GAN-MEDICAL-IMAGE-TOOLKIT/"><img src="https://img.shields.io/badge/▶_Open_the_live_site-3DD6F5?style=for-the-badge" alt="Open the live site" /></a>
+
 **[Features](#-the-toolkit)** · **[Quick start](#-quick-start)** · **[How it works](#-how-a-gan-works)** · **[Team](#-the-team)** · **[Structure](#-project-structure)**
 
 </div>
