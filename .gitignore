@@ -1,0 +1,9 @@
+node_modules
+dist
+*.local
+.vercel
+.DS_Store
+artifact-build
+
+.claude
+.artifact-files.json
